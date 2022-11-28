@@ -14,7 +14,9 @@
 
  Nämn två tekniker som fristående tjänster kan använda för att kommunicera med
  varandra.
-
+ 
+Ett nätvärk kan vara ett exempel på en fristående tjänst,då det kan finnas många datorer i ett nätverk och alla kan prata med varanda via en router eller ett modem 
+En annan tjänst kan vara api gatway, Den tar emot request och skickar de vidare till olika metoder i sin backend, Microservicarna pratar inte med varanda utan bara till gatewayn.
 
 Varför använder vi Docker, och hur kan det hjälpa oss?
 
