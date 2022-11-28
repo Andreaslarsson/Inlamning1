@@ -17,4 +17,5 @@
 
 
 Varför använder vi Docker, och hur kan det hjälpa oss?
+
 Docker är en virtuell dator vi skapar för att köra ett program eller en Images som det heter i Docker. Detta gör man då men inte behöver förlita sig på att om man ska köra programet på en annan dator så kanske det inte funkar för man kanske inte har rätt nugets/packets instrallerat på den nya dator och då kommer inte programmet fungera. Om man ska göra en liten backend till ett litet företag så vill man inte åka ut och koda på deras dator. Och då skapar man en ny container via docker. Laddar upp det. Och då kan kunden bara ladda ner docker och hämta filen så kan kunden köra det direkt utan att tänka på om han har rätt variationer på programmen. Docker är ett smidigt sätt att alltid få koden att köra i samma miljö även fast man byter dator. 
